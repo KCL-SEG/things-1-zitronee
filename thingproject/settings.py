@@ -127,4 +127,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 # THIS WILL TELL DJANGO THAT THIS IS OUR NEW USER MODEL for authentication purposes.
-AUTH_USER_MODEL = 'things.Thing'
+#AUTH_USER_MODEL = 'things.Thing'
